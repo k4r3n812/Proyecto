@@ -1,0 +1,1 @@
+Psico-Félix es un proyecto para el mejoramiento de los estudiantes en cuanto a su rendimiento academico, dandoles guia y apoyo para la resolución de sus conflictos.
